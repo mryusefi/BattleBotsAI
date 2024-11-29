@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d811220465275f43aaf9862bb6f5ba5
+timeCreated: 1454681672
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/Patroller.BT.txt
+  uploadId: 470345

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72d0ff5beb026254d9e909cf85666a5a
+timeCreated: 1453216867
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/02_PlayTag/Assets/PlayTag.commented.BT.txt
+  uploadId: 470345

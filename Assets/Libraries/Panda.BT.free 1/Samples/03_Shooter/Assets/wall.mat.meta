@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3748437054b5fc418397075d594cac1
+timeCreated: 1454605905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/wall.mat
+  uploadId: 470345

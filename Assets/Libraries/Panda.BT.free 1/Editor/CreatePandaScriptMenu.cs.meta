@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e539701eac46b854e9b587eb754d0d3a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Editor/CreatePandaScriptMenu.cs
+  uploadId: 470345

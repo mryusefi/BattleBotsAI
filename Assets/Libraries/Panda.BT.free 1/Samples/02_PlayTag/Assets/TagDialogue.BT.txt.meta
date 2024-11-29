@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 706ad22144367f548a7840945a671f1f
+timeCreated: 1453881301
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/02_PlayTag/Assets/TagDialogue.BT.txt
+  uploadId: 470345

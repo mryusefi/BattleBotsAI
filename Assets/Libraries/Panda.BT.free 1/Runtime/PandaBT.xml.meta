@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f337a4c1faf66f94c83c25d67c5656a3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Runtime/PandaBT.xml
+  uploadId: 470345

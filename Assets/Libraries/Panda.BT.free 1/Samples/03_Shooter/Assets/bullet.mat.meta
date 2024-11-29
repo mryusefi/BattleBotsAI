@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30da2cdacc183004e963790f3c1b2e29
+timeCreated: 1454336517
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/bullet.mat
+  uploadId: 470345

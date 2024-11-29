@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2f6112ad6117ae345aaefcec3ef2f1a6
+timeCreated: 1454696942
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/UnitExplosion.cs
+  uploadId: 470345

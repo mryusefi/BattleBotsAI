@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 256fdea239dc0bf4084a01b2ab1516a0
+timeCreated: 1455893727
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/GunJammed.prefab
+  uploadId: 470345

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd05e607c5fdf90438ba0d52ddd471ca
+timeCreated: 1454681763
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/patroller.mat
+  uploadId: 470345

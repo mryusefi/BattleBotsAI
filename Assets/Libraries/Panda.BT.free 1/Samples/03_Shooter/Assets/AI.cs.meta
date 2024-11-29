@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7c3da9624d5beec4c957da88e54b155f
+timeCreated: 1454417358
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/AI.cs
+  uploadId: 470345

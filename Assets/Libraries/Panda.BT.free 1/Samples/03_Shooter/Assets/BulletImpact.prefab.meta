@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0b01fc90bbb0174da53a5ec928afd78
+timeCreated: 1454701151
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/BulletImpact.prefab
+  uploadId: 470345

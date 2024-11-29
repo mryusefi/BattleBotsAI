@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2d8b9f0b1b3b2b449130faf3c10cd7e
+timeCreated: 1453483625
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/01_Move/Assets/Move.BT.txt
+  uploadId: 470345

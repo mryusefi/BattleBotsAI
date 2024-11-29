@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a2c68dd20b1dc148bdcdcbf3f3c9eda
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Runtime/PandaBehaviour.asmdef
+  uploadId: 470345

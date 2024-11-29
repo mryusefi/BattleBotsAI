@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c7400ede38d64d4a8e05c772ec70de2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Editor/PandaBehaviourEditor.cs
+  uploadId: 470345

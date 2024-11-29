@@ -1,0 +1,40 @@
+tree("Root")
+	parallel
+		repeat mute tree("Behavior")
+		repeat mute tree("Survival")
+
+tree("Behavior")
+	fallback
+		tree("Combat")
+		tree("Wonder")
+tree("Wonder")
+	while not SeePlayer
+		Wonder
+tree("Combat")
+	while SeePlayer
+		parallel
+			repeat mute tree("MovementRestrict")
+			repeat mute tree("Attack")
+tree("MovementRestrict")
+	sequence
+		IsStop(true)
+		IsRapeatDeclineHealth
+		ChangePosition
+tree("Attack")
+	sequence
+		AimTarget
+		WaitForSeconds(0.5)
+		ShootTarget
+
+tree("Survival")
+	fallback
+		tree("UsePotion")
+		tree("Dead")
+tree("Dead")
+	sequence
+		IsHealthLessThan(10.0)
+		Explode
+tree("UsePotion")
+	while IsHealthLessThan(40.0)
+		while HavePotion
+			UsePotion

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 849cdc08cad0af44aaedc6ec7dc7b930
+timeCreated: 1454918029
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/Sniper.prefab
+  uploadId: 470345

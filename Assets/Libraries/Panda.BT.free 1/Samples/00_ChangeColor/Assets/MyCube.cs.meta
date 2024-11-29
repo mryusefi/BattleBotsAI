@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 343ba5c3d1a4b6a4aa3ee0886b0802b6
+timeCreated: 1453189304
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/00_ChangeColor/Assets/MyCube.cs
+  uploadId: 470345

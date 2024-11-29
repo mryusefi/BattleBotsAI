@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a504788772dfd494192372471f26db7a
+timeCreated: 1454694841
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/player.mat
+  uploadId: 470345

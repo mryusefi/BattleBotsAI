@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d135ced58834b542bf5915a3bd52707
+timeCreated: 1454949667
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/02_PlayTag/Assets/PlayTag.BT.txt
+  uploadId: 470345

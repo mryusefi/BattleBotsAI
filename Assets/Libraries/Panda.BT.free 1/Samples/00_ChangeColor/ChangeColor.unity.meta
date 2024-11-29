@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2623b3eb0a61da458df07c9eaad9dee
+timeCreated: 1453190443
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/00_ChangeColor/ChangeColor.unity
+  uploadId: 470345

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a8ca2752abf4afe4e85b4e7cdd007a5c
+timeCreated: 1454405784
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33057
+  packageName: Panda BT Free
+  packageVersion: 1.4.4
+  assetPath: Assets/Panda.BT.free/Samples/03_Shooter/Assets/BulletImpact.cs
+  uploadId: 470345
